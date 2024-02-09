@@ -1,1 +1,1 @@
-web: gunicorn titanSales.wsgi
+web: gunicorn titanSales.wsgi --log-file -
